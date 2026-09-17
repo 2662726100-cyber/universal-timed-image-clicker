@@ -3,6 +3,7 @@
 ## 未发布
 
 - 将 GitHub 官方 Actions 更新至 Node.js 24 兼容的当前稳定主版本，消除 Node.js 20 弃用警告。
+- 云端构建和 Release 附件使用稳定的 ASCII 文件名，避免 GitHub 将纯中文附件名归一化为 `default.exe`。
 
 ## 2.0.0 - 2026-09-17
 
